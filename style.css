@@ -2,4 +2,56 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+
 }
+
+h1, h3 {
+  text-align: center;
+}
+a{
+  text-align: center;
+  background-color: rgb(202, 209, 209);
+margin: 5px;
+
+width: fit-content;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+nav{
+  margin-left: 480px;
+  display: flex;
+  align-items: center;
+}
+#featured-property{
+  
+  margin-left: 250px;
+  margin-right: 300px;
+
+}
+#featured-property p{
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+#featured-property figcaption{
+  text-align: center;
+}
+div{
+  text-align: center;
+  margin-right:100px ;
+  margin-left: 100px;
+  
+}
+#details{
+  display: flex;
+  flex-direction: row;
+  background-color: red;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
